@@ -1,3 +1,6 @@
+# Ignore config
+config.py
+
 # Ignore Rating.csv
 ratings.csv
 
